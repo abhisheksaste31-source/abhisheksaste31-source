@@ -1,94 +1,75 @@
-# Hi, I'm Abhi 👋
+<p align="center">
+  <img src="./abhi-devops-banner.png" alt="Abhi DevOps Banner" width="100%">
+</p>
 
-### 🚀 DevOps Fresher | AWS Cloud | Linux | Git | Cloud Infrastructure
+<h1 align="center">Hi, I'm Abhi 👋</h1>
 
-Computer Science graduate and DevOps fresher focused on building practical skills in **AWS Cloud, Linux, Git, networking, CI/CD, and infrastructure**.
+<h3 align="center">
+🚀 DevOps Fresher | ☁️ AWS Cloud | 🐧 Linux | 🔧 Git
+</h3>
 
-I enjoy working with cloud infrastructure, deploying applications, troubleshooting Linux environments, and building hands-on AWS projects.
+<p align="center">
+Building practical skills in Cloud Infrastructure, Deployment, Automation & DevOps.
+</p>
+
+<p align="center">
+<a href="https://github.com/abhisheksaste31-source">
+<img src="https://img.shields.io/badge/GitHub-abhisheksaste31--source-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://www.linkedin.com/in/abhisheksaste">
+<img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Saste-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:abhisaste4822@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+</a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Sc. Computer Science Graduate
-* ☁️ Focused on AWS Cloud and DevOps
-* 🐧 Hands-on experience with Linux administration
-* 🔧 Practicing AWS infrastructure, deployment, and troubleshooting
-* 🚀 Building hands-on Cloud & DevOps projects
-* 🎯 Looking for entry-level DevOps / Cloud Engineer opportunities
-* 📍 India
+🎓 **B.Sc. Computer Science Graduate**  
+☁️ DevOps & AWS Cloud Enthusiast  
+🐧 Hands-on Linux experience  
+🔧 Git & GitHub  
+🚀 Interested in Cloud Infrastructure & Deployment  
+🎯 Open to Entry-Level DevOps / Cloud Opportunities
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### ☁️ AWS Cloud
-
-* EC2
-* VPC
-* IAM
-* S3
-* EBS
-* EFS
-* Elastic Load Balancing / ALB
-* Auto Scaling
-* Route 53
-* ACM
-* CloudWatch
-* AMI
-* EBS Snapshots
-* AWS Transfer Family
-* Elastic Beanstalk
+### ☁️ AWS
+`EC2` `VPC` `IAM` `S3` `EBS` `EFS` `ALB` `Auto Scaling` `Route 53` `ACM` `CloudWatch` `AMI` `EBS Snapshots` `Transfer Family` `Elastic Beanstalk`
 
 ### 🔧 DevOps & Infrastructure
-
-* Git
-* GitHub
-* Linux
-* Bash / Shell Scripting
-* Apache
-* Nginx
-* Maven
-* Tomcat
+`Git` `GitHub` `Linux` `Bash` `Apache` `Nginx` `Maven` `Tomcat`
 
 ### 💻 Programming
-* Shell scripting
-* Python Basic
-* HTML
-* CSS
+`Shell Scripting` `Python Basic` `HTML` `CSS`
 
 ### 🗄️ Database
-
-* MySQL
+`MySQL`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🔵🟢 AWS Blue-Green Deployment
 
-Production-style Blue-Green deployment architecture implemented using AWS services.
+Production-style Blue-Green deployment architecture using AWS.
 
-**Technologies:**
-
-* AWS EC2
-* Application Load Balancer
-* Target Groups
-* Route 53
-* AWS Certificate Manager
-* Linux
-* Apache
-* Bash
+**Technologies:**  
+`EC2` `ALB` `Target Groups` `Route 53` `ACM` `Linux` `Apache` `Bash`
 
 **Key Features:**
 
-* Blue and Green application environments
-* ALB-based traffic routing
-* Separate Target Groups
-* Application health checks
-* Route 53 DNS integration
-* HTTPS using AWS Certificate Manager
-* Safer application release and rollback approach
+- 🔵 Blue & Green environments
+- ⚖️ ALB traffic routing
+- 🎯 Separate Target Groups
+- ❤️ Health checks
+- 🔐 HTTPS with ACM
+- ↩️ Safer deployment & rollback
 
 🔗 **[View Project on GitHub](https://github.com/abhisheksaste31-source/aws-blue-green-deployment)**
 
@@ -100,59 +81,58 @@ Production-style Blue-Green deployment architecture implemented using AWS servic
 
 **Jan 2026 – Present | Pune**
 
-Worked on web application development using **Python, Django, HTML, CSS, JavaScript, and MySQL**.
+Worked with **Python, Django, HTML, CSS, JavaScript & MySQL**.
 
-### Library Management System
+**Library Management System**
 
-* Developed application features using Python and Django.
-* Created responsive web pages using HTML, CSS, and JavaScript.
-* Worked with MySQL for database management and data handling.
-* Assisted with application testing, debugging, and troubleshooting.
-* Worked across frontend, backend, and database integration.
+- Developed features using Django & Python
+- Built responsive frontend pages
+- Worked with MySQL database
+- Assisted in testing & debugging
+- Worked across frontend, backend & database
 
 ---
 
 ## 📚 Currently Learning
 
-* AWS Cloud Architecture
-* CI/CD
-* Jenkins
-* Docker
-* Kubernetes
-* Terraform
-* AWS CloudFormation
-* Monitoring & Logging
-* DevSecOps
+`AWS Architecture` `Jenkins` `Docker` `Kubernetes` `Terraform` `CloudFormation` `Monitoring` `DevSecOps`
 
 ---
 
 ## 🎯 Career Goal
 
-Looking for entry-level opportunities as a:
+Looking for opportunities as a:
 
 **Junior DevOps Engineer | Cloud Engineer | AWS Cloud Engineer**
 
-Currently building practical projects and strengthening my skills in **cloud infrastructure, automation, deployment, Linux administration, and DevOps practices**.
+Focused on **AWS • Linux • Automation • CI/CD • Cloud Infrastructure • Deployment**
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-* 💼 **LinkedIn:**[https:](https://www.l)https://www.linkedin.com/in/abhisheksaste?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* 💻 **GitHub:** [abhisheksaste31-source](https://github.com/abhisheksaste31-source)
-* 📄 **Naukri:** https://www.naukri.com/mnjuser/profile?tab=Activity
-* 📧 **Email:**` abhisaste4822@gmail.com`
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhisheksaste">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/abhisheksaste31-source">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.naukri.com/mnjuser/profile?tab=Activity">
+<img src="https://img.shields.io/badge/Naukri-Profile-0052CC?style=for-the-badge">
+</a>
+
+<a href="mailto:abhisaste4822@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
 
 ---
 
-## ⭐ Featured Repository
-
-🔵🟢 **[AWS Blue-Green Deployment](https://github.com/abhisheksaste31-source/aws-blue-green-deployment)**
-
-AWS-based deployment project demonstrating **EC2, ALB, Target Groups, Route 53, ACM, Linux, Apache, health checks, and Blue-Green deployment concepts**.
-
----
-
-### 🚀 Open to DevOps & Cloud Opportunities
-
-**DevOps Engineer | Cloud Engineer | AWS Cloud Engineer | Junior DevOps Engineer**
+<p align="center">
+<b>☁️ Build • Deploy • Automate • Learn • Grow 🚀</b>
+</p>
