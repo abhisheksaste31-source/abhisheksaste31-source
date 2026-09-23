@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abhi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multi-Cloud%20%7C%20DevOps%20%7C%20Cloud%20Automation&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abhishek%20Saste&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multi-Cloud%20%7C%20DevOps%20%7C%20Cloud%20Automation&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Abhi 👋</h1>
+<h1 align="center">Hi, I'm Abhishek Saste 👋</h1>
 
 <h3 align="center">
-☁️ Multi-Cloud & DevOps Fresher | AWS | Azure | GCP
+☁️ Multi-Cloud & DevOps Fresher | AWS | Azure | GCP | Linux | CI/CD
 </h3>
 
 <p align="center">
@@ -14,10 +14,10 @@ Building practical Cloud Infrastructure, CI/CD Pipelines, Automation & Deploymen
 
 <p align="center">
   <a href="https://github.com/abhisheksaste31-source">
-    <img src="https://img.shields.io/badge/GitHub-Abhi-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-Abhishek%20Saste-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/abhisheksaste">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Saste-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:abhisaste4822@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
@@ -79,17 +79,9 @@ I believe in learning through **hands-on implementation**, building real-world p
   <img src="https://skillicons.dev/icons?i=azure" height="70"/>
 </p>
 
-`Virtual Machines`
+`Virtual Machines` `Virtual Network` `Azure Storage`
 
-`Virtual Network`
-
-`Azure Storage`
-
-`Azure Load Balancer`
-
-`Azure IAM`
-
-`Azure Monitor`
+`Azure Load Balancer` `Azure IAM` `Azure Monitor`
 
 `Azure App Services`
 
@@ -101,19 +93,9 @@ I believe in learning through **hands-on implementation**, building real-world p
   <img src="https://skillicons.dev/icons?i=gcp" height="70"/>
 </p>
 
-`Compute Engine`
+`Compute Engine` `VPC` `Cloud Storage` `IAM`
 
-`VPC`
-
-`Cloud Storage`
-
-`IAM`
-
-`Cloud Load Balancing`
-
-`Cloud Monitoring`
-
-`Cloud Run`
+`Cloud Load Balancing` `Cloud Monitoring` `Cloud Run`
 
 ---
 
@@ -127,8 +109,6 @@ I believe in learning through **hands-on implementation**, building real-world p
 
 `Jenkins` `GitHub Actions`
 
----
-
 ## 🐳 Containers & Orchestration
 
 <p align="center">
@@ -136,8 +116,6 @@ I believe in learning through **hands-on implementation**, building real-world p
 </p>
 
 `Docker` `Kubernetes`
-
----
 
 ## 🏗️ Infrastructure as Code
 
@@ -147,8 +125,6 @@ I believe in learning through **hands-on implementation**, building real-world p
 
 `Terraform` `AWS CloudFormation`
 
----
-
 ## 🐧 Linux & Scripting
 
 <p align="center">
@@ -156,6 +132,10 @@ I believe in learning through **hands-on implementation**, building real-world p
 </p>
 
 `Linux` `Bash` `Shell Scripting`
+
+## 🌐 Web & Application Servers
+
+`Nginx` `Apache` `Tomcat` `Maven`
 
 ---
 
@@ -270,6 +250,8 @@ Designed and implemented a highly available AWS 3-tier architecture using multip
                        ▼
                  Database Tier
 
+🔗 View Project
+
 ⚙️ Java CI/CD Pipeline with GitHub Actions
 
 Automated CI/CD pipeline for a Java Maven web application packaged as a WAR and deployed to Apache Tomcat.
@@ -347,15 +329,9 @@ Application Logs Linux Logs Health Checks
 
 Focused on:
 
-Programming
+Programming Database Systems Computer Networks
 
-Database Systems
-
-Computer Networks
-
-Operating Systems
-
-Data Structures
+Operating Systems Data Structures
 
 💼 Career Interests
 
@@ -423,18 +399,11 @@ Multi-Cloud DevOps
 
 My goal is to become a strong Cloud & DevOps Engineer by continuously building practical experience in:
 
-AWS
-Azure
-GCP
-Linux
-Networking
-CI/CD
-Docker
-Kubernetes
-Terraform
-DevSecOps
-Automation
-Monitoring
+AWS Azure GCP Linux Networking
+
+CI/CD Docker Kubernetes Terraform
+
+DevSecOps Automation Monitoring
 
 I believe in:
 
