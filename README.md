@@ -269,3 +269,183 @@ Designed and implemented a highly available AWS 3-tier architecture using multip
                        │
                        ▼
                  Database Tier
+
+⚙️ Java CI/CD Pipeline with GitHub Actions
+
+Automated CI/CD pipeline for a Java Maven web application packaged as a WAR and deployed to Apache Tomcat.
+
+🛠️ Technologies
+
+Java Maven GitHub Actions
+
+SonarQube Apache Tomcat Linux
+
+🔄 Pipeline
+Developer
+    │
+    ▼
+GitHub Repository
+    │
+    ▼
+GitHub Actions
+    │
+    ├── Checkout
+    ├── JDK 17 Setup
+    ├── Maven Build
+    ├── WAR Packaging
+    ├── SonarQube Analysis
+    └── WAR Artifact
+            │
+            ▼
+       Apache Tomcat
+            │
+            ▼
+       Application
+✨ Key Features
+🔄 Automated CI/CD
+☕ Java Maven build
+📦 WAR artifact generation
+🔍 SonarQube code analysis
+🚀 Automated Tomcat deployment
+🔐 GitHub Secrets
+✅ Deployment verification
+
+🔗 View Project
+
+🔐 DevSecOps & Security
+
+Currently building practical knowledge in:
+
+🔐 IAM & Access Control
+🔑 Secrets Management
+🛡️ Secure Cloud Configuration
+🔍 SonarQube Code Quality
+🔒 HTTPS / SSL Certificates
+🌐 Network Security
+🔥 Security Groups & NACLs
+📦 Secure CI/CD Practices
+📊 Monitoring & Observability
+☁️ AWS
+
+CloudWatch CloudWatch Logs CloudWatch Metrics
+
+🔵 Azure
+
+Azure Monitor
+
+🔴 GCP
+
+Cloud Monitoring
+
+⚙️ DevOps
+
+Application Logs Linux Logs Health Checks
+
+🎓 Education
+
+🎓 B.Sc. Computer Science Graduate
+
+Focused on:
+
+Programming
+
+Database Systems
+
+Computer Networks
+
+Operating Systems
+
+Data Structures
+
+💼 Career Interests
+
+Looking for entry-level opportunities in:
+
+☁️ Cloud Engineer
+🚀 DevOps Engineer
+🔥 AWS Cloud Engineer
+🌐 Multi-Cloud Engineer
+⚙️ Junior DevOps Engineer
+🛠️ Cloud Operations Engineer
+📚 Currently Learning
+Cloud
+ ├── AWS Architecture
+ ├── Azure
+ └── GCP
+
+DevOps
+ ├── Jenkins
+ ├── GitHub Actions
+ ├── Docker
+ ├── Kubernetes
+ └── Terraform
+
+Infrastructure
+ ├── Infrastructure as Code
+ ├── Cloud Networking
+ └── High Availability
+
+Advanced
+ ├── DevSecOps
+ ├── Monitoring
+ ├── Security
+ └── Automation
+🌱 My Multi-Cloud & DevOps Journey
+Programming
+      ↓
+Linux
+      ↓
+Networking
+      ↓
+Git & GitHub
+      ↓
+AWS
+      ↓
+Azure & GCP
+      ↓
+CI/CD
+      ↓
+Jenkins & GitHub Actions
+      ↓
+Docker
+      ↓
+Kubernetes
+      ↓
+Terraform
+      ↓
+DevSecOps
+      ↓
+Multi-Cloud DevOps
+🚀 Learn → Build → Automate → Deploy → Improve
+📈 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheksaste31-source&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksaste31-source&theme=tokyonight&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaste31-source&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+🎯 My Goal
+
+My goal is to become a strong Cloud & DevOps Engineer by continuously building practical experience in:
+
+AWS
+Azure
+GCP
+Linux
+Networking
+CI/CD
+Docker
+Kubernetes
+Terraform
+DevSecOps
+Automation
+Monitoring
+
+I believe in:
+
+Learn → Build → Automate → Deploy → Improve 🚀
+
+📫 Let's Connect
+<p align="center"> <a href="https://github.com/abhisheksaste31-source"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/abhisheksaste"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:abhisaste4822@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center">
+☁️ Multi-Cloud • DevOps • Automation • CI/CD
+🚀 Build. Automate. Deploy. Scale.
+
+Consistent Learning Builds Better Tomorrows.
+
+</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/> </p>
