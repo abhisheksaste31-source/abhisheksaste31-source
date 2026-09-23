@@ -7,18 +7,18 @@
 <h3 align="center">☁️ Multi-Cloud & DevOps Fresher | AWS | Azure | GCP | Linux | CI/CD</h3>
 
 <p align="center">
-Building practical Cloud Infrastructure, CI/CD Pipelines, Automation & Deployment Solutions 🚀
+  Building practical Cloud Infrastructure, CI/CD Pipelines, Automation & Deployment Solutions 🚀
 </p>
 
 <p align="center">
   <a href="https://github.com/abhisheksaste31-source">
-    <img src="https://img.shields.io/badge/GitHub-Abhishek%20Saste-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-Abhishek%20Saste-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/abhisheksaste">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Saste-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Saste-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abhisaste4822@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -208,36 +208,38 @@ Designed and implemented a highly available AWS 3-tier architecture using multip
 
 `NAT Gateway` `Internet Gateway` `CloudFront` `Route 53` `ACM`
 
-### Architecture
+### 🏛️ Architecture
 
-```text
-Internet
-   │
-   ▼
-CloudFront
-   │
-   ▼
-Route 53 + ACM
-   │
-   ▼
-Public Application Load Balancer
-   │
-   ├──────────────┐
-   ▼              ▼
-Web EC2        Web EC2
-   │              │
-   └──────┬───────┘
-          ▼
-     Internal ALB
-          │
-          ▼
-   Application Tier
-          │
-          ▼
-    Database Tier
+    Internet
+       │
+       ▼
+    CloudFront
+       │
+       ▼
+    Route 53 + ACM
+       │
+       ▼
+    Public Application Load Balancer
+       │
+       ├──────────────┐
+       ▼              ▼
+    Web EC2        Web EC2
+       │              │
+       └──────┬───────┘
+              ▼
+         Internal ALB
+              │
+              ▼
+       Application Tier
+              │
+              ▼
+        Database Tier
 
+🔗 **[View Project](https://github.com/abhisheksaste31-source/aws-highly-available-3-tier-architecture)**
 
-## ⚙️ Java CI/CD Pipeline with GitHub Actions
+---
+
+# ⚙️ Java CI/CD Pipeline with GitHub Actions
 
 Automated CI/CD pipeline for a Java Maven web application packaged as a WAR and deployed to Apache Tomcat.
 
